@@ -19,7 +19,15 @@ To install, or update the conda environment run ``setup_dev_env.sh``
 How to run
 ==========
 
-In order to launch the training script, run:
+In order to launch the training script,
+
+Activate the conda environment:
+
+.. code:: bash
+
+    source path.bash.inc
+    
+Make sure the conda environment is activated and run: 
 
 .. code:: bash
 
